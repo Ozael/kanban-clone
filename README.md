@@ -1,3 +1,3 @@
 # KanbanClone
 
-![alt text]("./src/assets/print.png")
+<img src="./src/assets/print.png"/>
